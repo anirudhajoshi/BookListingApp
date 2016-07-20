@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+
+    <string name="books">Book Search Results</string>
+
+    <string name="searchhint">Enter book to search here...</string>
+
+    <string name="searchhintonempty">You must enter a book to search here...</string>
+
+    <string name="invalidurl">"Unable to retrieve web page. URL may be invalid."</string>
+
+    <string name="noconnection">"Cannot connect - no network connection"</string>
+
+    <string name="notitle">"Book has no title"</string>
+
+    <string name="noauthors">"No authors specified"</string>
+
+    <string name="emptybooklist">"No books available to show. \n\nPlease return back to the main screen and enter a valid book title to search in the box provided. \n\nThen click on the search button."</string>
+
+</resources>
